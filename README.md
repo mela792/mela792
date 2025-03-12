@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on learn
 - 🌱 I’m currently learning git
+- ⚡ Fun fact: I like to eat patatas
 
 <!--
 **mela792/mela792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
