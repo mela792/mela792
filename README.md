@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Melanie Yance</h1>
 
 <p align="center">
-💻 Desarrollador Web en formación | 🚀 Apasionada por la tecnología
+💻 Desarrolladora Web en formación | 🚀 Apasionada por la tecnología
 </p>
 
 ---
